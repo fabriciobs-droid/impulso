@@ -1,16 +1,10 @@
-IMPULSO • DIAGNÓSTICO 360 — ESTRELÁRIO
+IMPULSO — DIAGNÓSTICO COMERCIAL 360 • ESTRELÁRIO — VERSÃO 2
 
-PUBLICAÇÃO
-1. Publique o conteúdo desta pasta em Vercel, Netlify ou hospedagem estática HTTPS.
-2. Abra o endereço no Safari do iPhone.
-3. Opcional: Compartilhar > Adicionar à Tela de Início.
+1. Abra index.html no computador para testar.
+2. Para usar no iPhone, publique a pasta em um endereço HTTPS e abra no Safari.
+3. O formulário salva automaticamente no navegador.
+4. "Backup" exporta um JSON com respostas e fotos.
+5. "Restaurar" importa o backup.
+6. "Relatório PDF" abre a impressão do navegador; escolha Salvar como PDF.
 
-USO
-- O formulário salva respostas automaticamente no navegador.
-- As fotos são armazenadas no IndexedDB do navegador.
-- Use Backup completo ao longo/final da visita; o arquivo JSON inclui respostas e fotos.
-- Restaurar backup permite recuperar o conteúdo no mesmo ou em outro navegador compatível.
-- Gerar relatório PDF abre a impressão; no iPhone, abra a prévia e use Compartilhar > Salvar em Arquivos.
-
-IMPORTANTE
-Não limpe os dados do Safari antes de exportar o backup. Para uma vistoria importante, exporte backup durante a visita e ao final.
+Esta versão é um diagnóstico preliminar/comercial de visita, não uma auditoria, laudo técnico ou implantação condominial.
