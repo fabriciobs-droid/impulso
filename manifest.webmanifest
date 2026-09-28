@@ -1,0 +1,8 @@
+{
+  "name": "Impulso • Diagnóstico 360",
+  "short_name": "Impulso 360",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#0B2E6F"
+}
