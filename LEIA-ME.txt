@@ -1,20 +1,19 @@
-HISTÓRIAS PARA FICAR — Fabrício Bezerra Santos
+HISTORINHAS — FABRÍCIO BEZERRA SANTOS
 
-Extraia todos os arquivos deste ZIP para uma mesma pasta.
-Abra index.html no navegador para escolher uma história.
+Extraia o ZIP inteiro. Abra index.html, mantendo a pasta assets junto dos três HTMLs.
+Para publicar em outra hospedagem, envie index.html, porquinho.html, chapeuzinho.html e toda a pasta assets, incluindo assets/chapeuzinho/audio.
 
-index.html — biblioteca com as capas.
-porquinho.html — Os Três Porquinhos e o Novo Vizinho.
-chapeuzinho.html — Chapeuzinho e o Lobo Atrapalhado.
-assets/ — imagens e vídeos usados pelos livros; mantenha esta pasta junto dos HTMLs.
+CHAPEUZINHO — ATUALIZAÇÃO DE NARRAÇÃO
+A voz feminina Thalita está incluída nos arquivos MP3, sem depender das vozes do aparelho.
+Ver história: gravação curta de aproximadamente 9min07s, com passagem de páginas e momentos visuais.
+Ouvir história: gravação descritiva de aproximadamente 15min13s, barra de tempo real, pausa e saltos de 15 segundos.
+Os efeitos sonoros são ativados ao abrir o livro ou iniciar a escuta, em volume baixo, sem seletor de desligamento. Eles pausam com a narração.
+Os vídeos ficam sem o áudio original e repetem durante a narração da página.
+O navegador pode exigir um toque em Ouvir para iniciar o áudio. Nenhuma instalação de voz é necessária para Chapeuzinho.
 
-Cada livro permite ver ou ouvir a história, selecionar Voz Masculina (Antônio Natural) ou Voz Feminina (Thalita Natural), pausar, repetir e virar páginas automaticamente.
-No modo Ouvir, a narração é mais descritiva e há barra de posição e saltos aproximados de 15 segundos.
+Os tempos de troca de parágrafos e cenas são uma marcação inicial baseada nas pausas das gravações. Ainda precisam de revisão auditiva para conferir se cada troca corresponde exatamente à frase narrada.
 
-Na Chapeuzinho, os momentos visuais mudam com o início de cada parágrafo narrado. Cada vídeo repete até terminar esse trecho. As cenas 03 e 05 usam imagens com movimento suave. Os botões 1, 2 e 3 permitem ver os momentos manualmente.
-Os vídeos são silenciosos para não disputar com a narração. Os efeitos opcionais começam desligados.
+PORQUINHOS
+O livro anterior está preservado e ainda utiliza as vozes disponibilizadas pelo navegador. Para receber a mesma atualização com áudios incluídos, faltam suas gravações próprias.
 
-As vozes são fornecidas pelo navegador e só são usadas quando Antônio Natural ou Thalita Natural estiverem disponíveis. Elas não estão gravadas no pacote e podem precisar de conexão. O livro informa quando a voz escolhida não está disponível.
-O tempo do modo Ouvir e os saltos são aproximados porque a fala é gerada ao vivo.
-
-O Pix do autor ainda não foi informado. Por isso, os créditos mantêm um aviso, sem QR Code fictício.
+O Pix do autor não foi informado; os créditos mantêm o espaço reservado.
