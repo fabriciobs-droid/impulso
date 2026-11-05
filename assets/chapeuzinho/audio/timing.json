@@ -1,0 +1,109 @@
+{
+  "readerSrc": "assets/chapeuzinho/audio/ler-thalita.mp3",
+  "listenSrc": "assets/chapeuzinho/audio/ouvir-thalita.mp3",
+  "readerDuration": 546.8,
+  "listenDuration": 913.4875,
+  "pages": [
+    {
+      "start": 0,
+      "end": 51.2,
+      "moments": [
+        5.44,
+        21.98,
+        37.085
+      ]
+    },
+    {
+      "start": 51.2,
+      "end": 97.715,
+      "moments": [
+        51.2,
+        65.43,
+        81.98
+      ]
+    },
+    {
+      "start": 97.715,
+      "end": 144.64,
+      "moments": [
+        97.715,
+        113.695,
+        129.485
+      ]
+    },
+    {
+      "start": 144.64,
+      "end": 189.488,
+      "moments": [
+        144.64,
+        160.05,
+        173.39
+      ]
+    },
+    {
+      "start": 189.488,
+      "end": 233.558,
+      "moments": [
+        189.488,
+        203.908,
+        217.823
+      ]
+    },
+    {
+      "start": 233.558,
+      "end": 285.668,
+      "moments": [
+        233.558,
+        249.888,
+        266.068
+      ]
+    },
+    {
+      "start": 285.668,
+      "end": 333.338,
+      "moments": [
+        285.668,
+        300.523,
+        316.182
+      ]
+    },
+    {
+      "start": 333.338,
+      "end": 381.218,
+      "moments": [
+        333.338,
+        349.688,
+        365.852
+      ]
+    },
+    {
+      "start": 381.218,
+      "end": 430.42,
+      "moments": [
+        381.218,
+        396.3,
+        414.095
+      ]
+    },
+    {
+      "start": 430.42,
+      "end": 481.58,
+      "moments": [
+        430.42,
+        447.76,
+        465.01
+      ]
+    },
+    {
+      "start": 481.58,
+      "end": 533.75,
+      "moments": [
+        481.58,
+        500.185,
+        516.91
+      ]
+    }
+  ],
+  "creditsStart": 533.75,
+  "alignment": "initial-silence-alignment"
+}
